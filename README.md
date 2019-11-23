@@ -18,4 +18,4 @@ Destini is a “choose your own adventure” app. The app will tell a story depe
 
 ## Screenshot
 
-![Destini Screenshot](Documentation/iOS-Destini.png)
+![Destini-Screenshot](Documentation/iOS-Destini.png)
